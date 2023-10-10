@@ -18,7 +18,7 @@ In our pursuit to cultivate vegetables with 90% less water than traditional meth
 - **Machine Learning**: My responsibility encompassed developing a machine learning model, LunarLeaf, to analyze these images and discern the health status of our vegetables. The core of the model is based on CNNs, optimizing its design over multiple iterations. For a deep dive into the model design process, [visit the models repository](https://github.com/amiracle1337/lunarleaf-ml-model)
 
 
-- **Frontend & Backend**: To bring predictions to life, I designed a frontend using React. Firebase, acting as our database, seamlessly integrates with Twana's robot, ensuring every captured image triggers an automatic prediction by the model.
+- **Frontend & Backend**: To bring predictions to life, I designed a frontend using React. For the backend I used Firebase, acting as our database so I could seamlessly integrate with the robot Twana was building, ensuring every captured image triggers an automatic prediction by the model.
 
 ---
 

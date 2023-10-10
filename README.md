@@ -42,13 +42,6 @@ This marked my initial venture into both machine learning and backend developmen
 
 ---
 
-## Contributing
-
-LunarLeaf is in its infancy, and contributions are welcome! If you're keen on enhancing its features or have feedback, feel free to create an issue or submit a pull request.
-
-
----
-
 ## Contact
 
 amir@amiracle.xyz

@@ -49,6 +49,6 @@ This marked my initial venture into both machine learning and backend developmen
 ## Contact
 
 amir@amiracle.xyz
-twanahc@gmail.com
+, twanahc@gmail.com
 
 

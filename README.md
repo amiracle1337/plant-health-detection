@@ -1,1 +1,55 @@
-# plant-health-detection
+# LunarLeaf: Automated Plant Health Detection 
+
+LunarLeaf integrates machine learning models with an intuitive frontend to automatically assess the health of vegetables grown in our indoor aeroponic farm. The project capitalizes on the power of Convolutional Neural Networks (CNNs) for image recognition and React for frontend development, all tied together with Firebase as the real-time database.
+
+![LunarLeaf Logo or a Sample Image](url_to_your_image)
+
+---
+
+## Background
+
+In our pursuit to cultivate vegetables with 90% less water than traditional methods, Twana Cheragwandi and I constructed an indoor aeroponic farm. The challenge arose in routinely monitoring plant health. Thus, the concept of LunarLeaf emerged:
+
+- **Robot Integration**: Led by Twana Cheragwandi, we designed a robot to automate daily image captures of the plants.
+  
+- **Machine Learning**: My responsibility encompassed developing a machine learning model, LunarLeaf, to analyze these images and discern the health status of our vegetables. The core of the model is based on CNNs, optimizing its design over multiple iterations. For a deep dive into the model design process, check the [LunarLeaf README on Model Development](link_to_detailed_model_readme).
+
+- **Frontend & Backend**: To bring predictions to life, I designed a frontend using React. Firebase, acting as our database, seamlessly integrates with Twana's robot, ensuring every captured image triggers an automatic prediction by the model.
+
+---
+
+## Current Features
+
+- **Real-time Predictions**: Instantly predicts plant health once an image is uploaded to the Firebase database.
+  
+- **Minimalistic UI**: A straightforward user interface for viewing the most recent predictions.
+
+---
+
+## Future Enhancements
+
+1. **UI Overhaul**: Envision a more intuitive and interactive user interface.
+  
+2. **Data Trends**: Integration of trend visualization tools to monitor plant health over time.
+
+3. **Historical Data**: A dashboard to navigate through predictions based on specific dates.
+
+---
+
+## Acknowledgements
+
+This marked my initial venture into both machine learning and backend development. I'm grateful for the learning curve and the tangible results achieved. Collaboration with Twana Cheragwandi was instrumental in making LunarLeaf a reality.
+
+---
+
+## Contributing
+
+LunarLeaf is in its infancy, and contributions are welcome! If you're keen on enhancing its features or have feedback, feel free to create an issue or submit a pull request.
+
+
+---
+
+## Contact
+
+amir@amiracle.xyz
+twanahc@gmail.com

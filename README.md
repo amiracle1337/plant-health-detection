@@ -2,7 +2,7 @@
 
 LunarLeaf integrates machine learning models with an intuitive frontend to automatically assess the health of vegetables grown in our indoor aeroponic farm. The project capitalizes on the power of Convolutional Neural Networks (CNNs) for image recognition and React for frontend development, all tied together with Firebase as the real-time database.
 
-**[SEE LIVE DEMO HERE](https://www.youtube.com/watch?v=Y7CumIW4SRY)**
+=> **[SEE LIVE DEMO HERE](https://www.youtube.com/watch?v=Y7CumIW4SRY)** <=
 
 
 [![LG UltraFine](https://github.com/amiracle1337/plant-health-detection/assets/122039464/53158b1d-eea1-4601-9651-c26e90991e32)](https://www.youtube.com/watch?v=Y7CumIW4SRY&feature=youtu.be)
